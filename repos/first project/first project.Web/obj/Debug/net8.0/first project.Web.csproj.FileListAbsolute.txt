@@ -1,0 +1,76 @@
+C:\Users\User\source\repos\first project\first project.Web\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\User\source\repos\first project\first project.Web\bin\Debug\net8.0\appsettings.json
+C:\Users\User\source\repos\first project\first project.Web\bin\Debug\net8.0\first project.Web.staticwebassets.runtime.json
+C:\Users\User\source\repos\first project\first project.Web\bin\Debug\net8.0\first project.Web.exe
+C:\Users\User\source\repos\first project\first project.Web\bin\Debug\net8.0\first project.Web.deps.json
+C:\Users\User\source\repos\first project\first project.Web\bin\Debug\net8.0\first project.Web.runtimeconfig.json
+C:\Users\User\source\repos\first project\first project.Web\bin\Debug\net8.0\first project.Web.dll
+C:\Users\User\source\repos\first project\first project.Web\bin\Debug\net8.0\first project.Web.pdb
+C:\Users\User\source\repos\first project\first project.Web\bin\Debug\net8.0\Aspire.StackExchange.Redis.dll
+C:\Users\User\source\repos\first project\first project.Web\bin\Debug\net8.0\Aspire.StackExchange.Redis.OutputCaching.dll
+C:\Users\User\source\repos\first project\first project.Web\bin\Debug\net8.0\HealthChecks.Redis.dll
+C:\Users\User\source\repos\first project\first project.Web\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\User\source\repos\first project\first project.Web\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Users\User\source\repos\first project\first project.Web\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Users\User\source\repos\first project\first project.Web\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\Users\User\source\repos\first project\first project.Web\bin\Debug\net8.0\Microsoft.AspNetCore.OutputCaching.StackExchangeRedis.dll
+C:\Users\User\source\repos\first project\first project.Web\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\User\source\repos\first project\first project.Web\bin\Debug\net8.0\Microsoft.Extensions.AmbientMetadata.Application.dll
+C:\Users\User\source\repos\first project\first project.Web\bin\Debug\net8.0\Microsoft.Extensions.Compliance.Abstractions.dll
+C:\Users\User\source\repos\first project\first project.Web\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\User\source\repos\first project\first project.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\source\repos\first project\first project.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.AutoActivation.dll
+C:\Users\User\source\repos\first project\first project.Web\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\User\source\repos\first project\first project.Web\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.ExceptionSummarization.dll
+C:\Users\User\source\repos\first project\first project.Web\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\User\source\repos\first project\first project.Web\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\User\source\repos\first project\first project.Web\bin\Debug\net8.0\Microsoft.Extensions.Features.dll
+C:\Users\User\source\repos\first project\first project.Web\bin\Debug\net8.0\Microsoft.Extensions.Http.Diagnostics.dll
+C:\Users\User\source\repos\first project\first project.Web\bin\Debug\net8.0\Microsoft.Extensions.Http.Resilience.dll
+C:\Users\User\source\repos\first project\first project.Web\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\source\repos\first project\first project.Web\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\User\source\repos\first project\first project.Web\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\User\source\repos\first project\first project.Web\bin\Debug\net8.0\Microsoft.Extensions.Resilience.dll
+C:\Users\User\source\repos\first project\first project.Web\bin\Debug\net8.0\Microsoft.Extensions.ServiceDiscovery.dll
+C:\Users\User\source\repos\first project\first project.Web\bin\Debug\net8.0\Microsoft.Extensions.ServiceDiscovery.Abstractions.dll
+C:\Users\User\source\repos\first project\first project.Web\bin\Debug\net8.0\Microsoft.Extensions.Telemetry.dll
+C:\Users\User\source\repos\first project\first project.Web\bin\Debug\net8.0\Microsoft.Extensions.Telemetry.Abstractions.dll
+C:\Users\User\source\repos\first project\first project.Web\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\User\source\repos\first project\first project.Web\bin\Debug\net8.0\OpenTelemetry.dll
+C:\Users\User\source\repos\first project\first project.Web\bin\Debug\net8.0\OpenTelemetry.Api.dll
+C:\Users\User\source\repos\first project\first project.Web\bin\Debug\net8.0\OpenTelemetry.Api.ProviderBuilderExtensions.dll
+C:\Users\User\source\repos\first project\first project.Web\bin\Debug\net8.0\OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
+C:\Users\User\source\repos\first project\first project.Web\bin\Debug\net8.0\OpenTelemetry.Extensions.Hosting.dll
+C:\Users\User\source\repos\first project\first project.Web\bin\Debug\net8.0\OpenTelemetry.Instrumentation.AspNetCore.dll
+C:\Users\User\source\repos\first project\first project.Web\bin\Debug\net8.0\OpenTelemetry.Instrumentation.Http.dll
+C:\Users\User\source\repos\first project\first project.Web\bin\Debug\net8.0\OpenTelemetry.Instrumentation.Runtime.dll
+C:\Users\User\source\repos\first project\first project.Web\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\User\source\repos\first project\first project.Web\bin\Debug\net8.0\Polly.Core.dll
+C:\Users\User\source\repos\first project\first project.Web\bin\Debug\net8.0\Polly.Extensions.dll
+C:\Users\User\source\repos\first project\first project.Web\bin\Debug\net8.0\Polly.RateLimiting.dll
+C:\Users\User\source\repos\first project\first project.Web\bin\Debug\net8.0\StackExchange.Redis.dll
+C:\Users\User\source\repos\first project\first project.Web\bin\Debug\net8.0\first project.ServiceDefaults.dll
+C:\Users\User\source\repos\first project\first project.Web\bin\Debug\net8.0\first project.ServiceDefaults.pdb
+C:\Users\User\source\repos\first project\first project.Web\obj\Debug\net8.0\first project.Web.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\first project\first project.Web\obj\Debug\net8.0\first project.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\first project\first project.Web\obj\Debug\net8.0\first project.Web.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\first project\first project.Web\obj\Debug\net8.0\first project.Web.AssemblyInfo.cs
+C:\Users\User\source\repos\first project\first project.Web\obj\Debug\net8.0\first project.Web.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\first project\first project.Web\obj\Debug\net8.0\first project.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\source\repos\first project\first project.Web\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\User\source\repos\first project\first project.Web\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\User\source\repos\first project\first project.Web\obj\Debug\net8.0\staticwebassets\msbuild.first project.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\source\repos\first project\first project.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.first project.Web.props
+C:\Users\User\source\repos\first project\first project.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.first project.Web.props
+C:\Users\User\source\repos\first project\first project.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.first project.Web.props
+C:\Users\User\source\repos\first project\first project.Web\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\User\source\repos\first project\first project.Web\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\User\source\repos\first project\first project.Web\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\User\source\repos\first project\first project.Web\obj\Debug\net8.0\scopedcss\bundle\first project.Web.styles.css
+C:\Users\User\source\repos\first project\first project.Web\obj\Debug\net8.0\scopedcss\projectbundle\first project.Web.bundle.scp.css
+C:\Users\User\source\repos\first project\first project.Web\obj\Debug\net8.0\first pr.F360C2ED.Up2Date
+C:\Users\User\source\repos\first project\first project.Web\obj\Debug\net8.0\first project.Web.dll
+C:\Users\User\source\repos\first project\first project.Web\obj\Debug\net8.0\refint\first project.Web.dll
+C:\Users\User\source\repos\first project\first project.Web\obj\Debug\net8.0\first project.Web.pdb
+C:\Users\User\source\repos\first project\first project.Web\obj\Debug\net8.0\first project.Web.genruntimeconfig.cache
+C:\Users\User\source\repos\first project\first project.Web\obj\Debug\net8.0\ref\first project.Web.dll

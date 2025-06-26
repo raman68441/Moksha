@@ -1,0 +1,2 @@
+C:\Users\User\source\repos\modin\modin\obj\Debug\modin.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\modin\modin\obj\Debug\modin.csproj.CoreCompileInputs.cache
